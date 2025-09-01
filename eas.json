@@ -1,6 +1,6 @@
 {
   "cli": {
-    "appVersionSource": "expo"
+    "appVersionSource": "local"
   },
   "build": {
     "development": {
